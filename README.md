@@ -1,14 +1,23 @@
 # theblockchainbook
 
 ## DISCLAIMER: CONCEPTUAL PHASE
+
 The following document outlines the structure of theblockchainbook. This is no means a guide on how the final product will turn out.
 
 ## Timeline
-1. Week 01 - [6/1/2020 - 12/1/2020]
-  * Project Inception
-  * Structure for blocks and transactions
-  * Chain concepts
 
+1. Week 01 - [6/1/2020 - 12/1/2020]
+
+- Project Inception
+- Structure for blocks and transactions
+- Chain concepts
+
+## eBook format
+
+### Asciidoc
+
+1. [Comparison Article](https://asciidoctor.org/docs/asciidoc-vs-markdown/)
+2. [Cheatsheat](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)
 
 # Blockchain Programming
 

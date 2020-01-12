@@ -1,0 +1,49 @@
+== *Blocks in Blockchain*
+'''
+==== Introduction
+Blocks are the key ingredients when building blockchain systems. We tend to associate this notion with the term _blocks_,
+which are essentially variable-sized structures that are unique based on it's data. A collection of these blocks will
+then form the notion of what we call a blockchain.
+
+*INSERT BLOCKS PIC HERE*
+
+We will propose various types of block architecture, from the rudimentary blockchain data structure used by _Bitcoin_
+and _Ethereum_, to more advanced structures such as the tangle structure used by _IOTA_, the
+directed acyclic graph used by _Nano_. However, for the sake of simplicity, this guide will implement a very standard
+block architecture similar to Bitcoin and Ethereum.
+
+==== Structures
+
+. Keyblocks and Microblocks structure
+. Configuration Block structure
+. Directed Acyclic Graph
+. Tangle
+
+====
+. Blocks
+   * Architecture
+     ** Header
+       *** Address structure
+       - Bytes32/Hash structure
+     ** Body
+     ** Builder
+   * Block ID representation and calculation
+     ** Setting first 4 bytes as 0 for height
+     ** Public-Key Crypto Library
+       *** Types
+         **** Keccak256
+         **** Black2b
+         **** RCHash
+   * Genesis Block
+     ** Builder
+       *** ChainConfig
+       *** BlockConfig
+         **** ExtraData
+         **** Timestamp
+
+. Testing
+. Cache (Ethereum vs Vechain)
+   * ID
+====
+
+Blocks Programming
