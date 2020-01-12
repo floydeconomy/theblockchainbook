@@ -1,4 +1,14 @@
-# blockchainbook
+# theblockchainbook
+
+## DISCLAIMER: CONCEPTUAL PHASE
+The following document outlines the structure of theblockchainbook. This is no means a guide on how the final product will turn out.
+
+## Timeline
+1. Week 01 - [6/1/2020 - 12/1/2020]
+  * Project Inception
+  * Structure for blocks and transactions
+  * Chain concepts
+
 
 # Blockchain Programming
 
@@ -38,7 +48,9 @@ What it will not do?
 3) Cache (Ethereum vs Vechain)
    - ID
 
-## Lesson 3: Transactions
+## Lesson 3: Chain
+
+## Lesson 4: Transactions
 
 1. Transactions
    - Architecture
@@ -50,17 +62,17 @@ What it will not do?
 2. Testing
 3. Cache
 
-## Lesson 4: Advanced Transaction Concepts
+## Lesson 5: Advanced Transaction Concepts
 
 1. Clauses
 2. Delegator Signing
 
-## Lesson 5: Advanced Block Concepts
+## Lesson 6: Advanced Block Concepts
 
 1. Cache
 2. Raw Blocks
 
-## Lesson 6: Advanced Genesis Block Concepts
+## Lesson 7: Advanced Genesis Block Concepts
 
 1. Networks
    - Testnet
