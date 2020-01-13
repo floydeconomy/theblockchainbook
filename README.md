@@ -11,7 +11,11 @@ The following document outlines the structure of theblockchainbook. This is no m
 1. Week 01 - [6/1/2020 - 12/1/2020]
    - Project Inception
    - Structure for blocks and transactions
+   - Genesis Block
+   - Chain
    - Book: Blocks
+2. Week 02 - [13-1/2020 - 20/1/2020]
+   - Key-Value DB
 
 ## eBook format
 
@@ -86,26 +90,37 @@ What it will not do?
 2. Testing
 3. Cache
 
-## Lesson 5: Advanced Transaction Concepts
+## Lesson 5: Advanced Concepts: Transaction Clauses and Delegator Signing
 
 1. Clauses
 2. Delegator Signing
 
-## Lesson 6: Advanced Block Concepts
+## Lesson 6: Advanced Concepts: Cache and Raw Blocks
 
 1. Cache
 2. Raw Blocks
 
-## Lesson 7: Advanced Genesis Block Concepts
+## Lesson 7: Advanced Concepts: Genesis Contracts
 
-1. Networks
-   - Testnet
-   - Mainnet
-   - Devnet
-2. Contracts
+1. Contracts
    - Executor
    - Energy
    - Authority
    - Extension
    - Params
    - Prototype
+
+## Lesson 8: Advanced Concepts: Networks
+
+1. Networks
+   - Testnet
+   - Mainnet
+   - Devnet
+
+## Lesson 9: Advanced Concetps: Key-Value DB integration
+
+1. Why?
+2. Potential KV's
+   - LevelDB
+   - BadgerDB
+3. The KV interface
