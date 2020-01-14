@@ -4,6 +4,8 @@
 
 The following document outlines the structure of theblockchainbook. This is no means a guide on how the final product will turn out. This project is still a Proof Of Concept so many details will change in the upcoming months.
 
+This project is just to enhance my understanding of building blockchain systems
+
 ---
 
 ## Timeline
